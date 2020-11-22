@@ -8,7 +8,7 @@ include_in_header: true
 <br>
 
 ### `Latest`
-# **Version b0.7.0**
+# **Version b0.7.1**
 
 #### What's New
  - Awesome start menu music theme!
