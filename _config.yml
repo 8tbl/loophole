@@ -9,7 +9,7 @@ playstore_link                            : https://play.google.com/store/apps/d
 presskit_download_link                    :                                        # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Loophole Abstract Adventure                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Tap, lose, retry! A challenging arcade game with an abstract geometric design
@@ -20,7 +20,7 @@ enable_smart_app_banner                   : false                               
 
 # Information About Yourself
 your_name                                 : Pavel Silin                               
-your_link                                 :                      
+your_link                                 : https://8tbl.github.io/                     
 your_city                                 : Russia, Saint-Petersburg                                
 email_address                             : 8thBitLab@gmail.com
 facebook_username                         :                                           
